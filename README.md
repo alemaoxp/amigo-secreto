@@ -21,4 +21,8 @@ Esse é um projeto para sorteio de <strong>Amigo Secreto</strong>, desenvolvido 
 
 
 2. Abra o arquivo inde.html no navegador <br>
-3. digite os nomes e sorteie!
+3. digite os nomes e sorteie! <br>
+
+
+<h1>Este projeto esta hospedado no <strong>Github Pages!</strong></h1> <br>
+<h3>Acesse de qualquer ispositivo.</h3> ➝  https://alemaoxp.github.io/amigo-secreto/
